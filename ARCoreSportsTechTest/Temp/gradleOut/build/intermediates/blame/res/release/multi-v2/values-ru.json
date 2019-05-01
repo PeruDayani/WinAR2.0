@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SAPTARSHI\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\a47b000a66263cda4ae3c4a25eae752a\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,285,399,507",
+                        "endColumns": "46,47,113,107,61",
+                        "endOffsets": "236,284,398,506,568"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,158,276,388",
+                        "endColumns": "50,51,117,111,65",
+                        "endOffsets": "101,153,271,383,449"
+                    }
+                }
+            ]
+        }
+    ]
+}

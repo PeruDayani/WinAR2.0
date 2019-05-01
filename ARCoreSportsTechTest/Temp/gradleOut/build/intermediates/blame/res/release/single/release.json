@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\SAPTARSHI\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\a47b000a66263cda4ae3c4a25eae752a\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_app_banner.png.flat",
+        "source": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\raw_keep.xml.flat",
+        "source": "C:\\Users\\SAPTARSHI\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\a47b000a66263cda4ae3c4a25eae752a\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "H:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    }
+]

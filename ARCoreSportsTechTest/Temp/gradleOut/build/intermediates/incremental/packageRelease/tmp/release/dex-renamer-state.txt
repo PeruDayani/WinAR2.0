@@ -1,0 +1,4 @@
+#Mon Apr 29 17:48:20 PDT 2019
+base.0=H\:\\UnityGames\\ARCoreSportsTechTest\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
