@@ -21,13 +21,7 @@ Once a suitable plane group has been found the athlete can use voice commands to
 Speech recognition was developed and integrated using the Android Speech to Text plugin.
 A football play model was created and animated for a select few offensive trailing drills.
 Spatial anchors were added to streamline mapping surroundings and onboarding time for athelets.
+<br>
 A demo and overview can be found here: https://drive.google.com/open?id=17WBGeryGkKCJdSkKgkVo9H3cLRB3dhZR
 </p>
 
-
-<h5> Results </h5>
-<p>
-As a semester long project in Industrial Engineering 185: Sports Technologies and Human Performance our team lead by Peru Dayani. 
-created WinAR: an application to give atheletes access to realistic training experiences against customizable augmented reality holographic opponents.
-The key problems we aimed to address were the psychological barrier of practicing against the same team and constantly running the risk of serious injury during training.
-</p>
